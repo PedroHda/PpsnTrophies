@@ -10,7 +10,7 @@ const game: Game = {
   platforms: ["PS4", "PS5"],
   trophiesEarned: 10,
   trophiesTotal: 37,
-  lastUpdatedat: null,
+  lastUpdatedAt: null,
 };
 
 export default function Home() {

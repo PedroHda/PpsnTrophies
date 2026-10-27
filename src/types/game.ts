@@ -9,5 +9,5 @@ export interface Game {
     trophiesEarned: number;
     trophiesTotal: number;
 
-    lastUpdatedat: string | null;
+    lastUpdatedAt: string | null;
 }
